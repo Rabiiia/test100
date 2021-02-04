@@ -1,0 +1,12 @@
+En metode en samling af statements som tilsammen udgøre en operation, kun når det bliver kaldt. 
+- Visibility
+- return type
+- metode navn (man selv finder på)
+- sommetider parametere. 
+
+En konstruktør
+- Visibility 
+- Ingen Retur Type
+- Navnet er opkaldt efter klassen
+- Sommetider parametere. Dises parametere kan blive brugt til at initialisere klassens attributter.
+- Bliver kaldt når et objekt af klassen er oprettet. Dvs. NEW KeyWord.  

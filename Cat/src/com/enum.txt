@@ -1,0 +1,19 @@
+Enum
+- keyword
+- enum attributter er constant. 
+- enum attributter skrives med uppercase bogstaver.
+- kan ikke oprette objekter.
+- kan ikke extende andre klasser.
+- kan implementere interface. 
+
+Man skriver enum i stedet for class og separerer attributter med kommaer. 
+- enum Calender i stedet for class Calender. 
+- enum Calender
+  - DAY,
+  - MONTH,
+  - WEEKDAY  	
+
+Enum attributter er konstant(lidt ligesom final). 
+
+enum klasse kan også indgå inde i selveste klasse.
+Fx. class Calender og i den klasse er der enum Calender klasse. 

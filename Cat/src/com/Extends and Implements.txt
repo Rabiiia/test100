@@ -1,0 +1,8 @@
+Implements og Extends
+- Keyword
+
+Extends udvider en superclass eller en abstract class. 
+Man kan tilføje nye metoder i den klasse der extender superclass eller abstract class. 
+
+Implements bruges til at implementere en interface. 
+Når en klasse implementerer en interface, så indgår den en aftale til at udføre de specifikke metoder i interface klasse. 

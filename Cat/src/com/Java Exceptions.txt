@@ -1,0 +1,16 @@
+Java Exceptions
+
+Try and catch;
+- KeyWords
+- Disse to ord skal altid nævnes i par, når man vil bruge dem i codeblock. 
+
+Try;
+- try imens koden bliver eksvereret bliver den testet for fejl.
+
+catch;
+- den opfanger fejlen.
+
+Throw
+- Keyword
+
+Jeg har ikke helt forstået throw exceptions grundigt nok. 

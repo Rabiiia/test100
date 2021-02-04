@@ -1,0 +1,6 @@
+Interface klasse har kun abstract metoder, ingen body, ingen konstruktør.
+Interface er en slags hovedkontrakt, som skal overholdes. 
+
+Interface
+- Adgang til interface klasse er with keyword implements.
+- Body kan skrives, når en anden klasse har implementeret klassen interface. 

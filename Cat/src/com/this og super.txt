@@ -1,0 +1,9 @@
+this er keyword som er et reference variable som refererer til nuværende objekt. 
+
+- this til at skelne mellem attributter og paramtere i konstruktør.
+- this inde i metode code block i den nuværende klasse.
+
+super er keyword er også et reference variabel som referer til superclass' objekter.
+- referer til superclass.
+- at få adgang til attributter i superclass
+- referer til superclass methoder og til konstruktøren i superclass

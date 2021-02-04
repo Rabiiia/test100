@@ -1,0 +1,9 @@
+Final modifier betyder, at et objekt ikke kan ændres. 
+- I Final-class betyder, at klassen ikke kan have subclasses.
+- Final methods kan ikke overskrives. 
+- Final variabler er konstante.
+
+Static modifier betyder, at det direkte er forbundet til en klasse. 
+- Attributter og metoder der er erklæret statiske er tilhører klassen. 
+- Man opretter ikke instanser af klasser for at få adgang til statiske attributter og metoder. 
+- Lokale variabler kan ikke erklæres statisk. 

@@ -1,0 +1,12 @@
+Import
+- Keyword.
+Man kan importere enkel klasse eller hele pakken. 
+
+
+Fx. import java.util.Scanner;
+- java.util er pakke.
+- Scanner er en klasse i java pakken.
+- Importere HELE PAKKEN skrives import java.util*;. Alle klasser vil blive importeret i denne pakke. 
+- Pakke navne burde skrives med småt for at undgå konfliker med klasse navne. 
+- Man kan lave sin egen pakke? 
+

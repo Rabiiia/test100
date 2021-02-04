@@ -1,0 +1,8 @@
+Overload metoder 
+- samme retur type
+- samme navn
+- skal være forskellige parametere.
+
+Override metoder
+- samme metodenavn
+- samme parametere

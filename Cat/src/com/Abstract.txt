@@ -1,0 +1,12 @@
+Abstract class
+- Keyword
+- Non-acess modifier
+- bruges til klasser og metoder
+I abstract metoder er der ingen code block (body). 
+- metodesignatur "public abstract void AnimalSound(metodenavn)".
+
+Body i abstract metoder kan skrives, når abstract klassen bliver nedarvet i subclasser.
+- subclasser kan have body i den samme metodesignatur(nævnt oven) som abstract klassen have. 
+
+Altså man kan kun få adgang til abstract klasser ved at nedarve det i subklasser og abstract metoder har ingen body.
+- 

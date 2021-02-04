@@ -1,0 +1,7 @@
+Array
+- et struktur med forskellige værdier.
+- at gemme flere værddier af den samme datatype i en enkel variabel eller objekt. 
+
+Arraylist
+- udvider array.
+- tilføje, rette, fjerne eller flytte antal værdier i den struktur. 

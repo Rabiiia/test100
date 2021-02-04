@@ -1,0 +1,26 @@
+Create, read and write to a file.
+
+oprette fil
+- importere File klasse.
+- Importere IOException
+- Opretter fil ved at oprette nyt objekt og indtaste filnavnet som parameterer.
+	File file = new File ("filename.txt"); 
+Husk txt. 
+
+- Tilføjes try and catch i tilfælde af filen ikke kan oprettes.
+
+- Der kan også tilføjes filer fra min desktop, min sti. 
+   File myFile = new File ("C: \\Users\\MyName\\filename.txt");
+
+skrive til teksfilfil
+- importere FileWriter klasse.
+- Oprettes ved objekt 
+	FileWriter myWriter = new FileWriter ("filename.txt");
+	myWriter. write("hello world").
+- Man kan skrive tekst i den tekstfil, man vil have skrevet tekster ind i. 
+
+- Tilføjes try and catch i tilfælde af den ikke kan skrive teksten ind. 
+Read a file
+- importere Scanner klasse.
+- Når en fil skal indlæses, så brug keyword throws exception efter metode signaturen. 
+
